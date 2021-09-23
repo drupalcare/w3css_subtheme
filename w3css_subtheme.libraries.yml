@@ -1,0 +1,8 @@
+w3css-subtheme-global:
+  version: VERSION
+  css:
+    theme:
+      css/w3css-subtheme-style.css: {}
+
+  js:
+    js/w3css-subtheme-script.js: {}
