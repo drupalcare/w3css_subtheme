@@ -1,7 +1,7 @@
 name: W3CSS Sub-theme
 type: theme
 base theme: drupal8_w3css_theme
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^8 || ^9 || ^10
 description: 'w3css sub-theme is an empty theme for your customization.'
 core: '8.x'
 libraries:
